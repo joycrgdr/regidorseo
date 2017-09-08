@@ -1,0 +1,3 @@
+# regidorseo
+
+Midterm seo
